@@ -25,7 +25,7 @@ Special thanks to [wytamma](https://software.annas-archive.li/wytamma) for provi
 ## Tile Generation
 
 - The tiles are generated using the **vips** tool.
-- The demo uses tiles of **5000x5000**, which might not be the most efficient option.
+- The demo uses tiles of **5000x5000**, which might not be the most efficient option. They are located at public/tiles.
 - The code for generating images and tiles can be found in this repository: [aa-isbns-visualize-utils](https://github.com/BackrndSource/aa-isbns-visualize-utils).
 
 ## Tech Stack
